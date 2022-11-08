@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: About
-permalink: /about/
 ---
 
 {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
