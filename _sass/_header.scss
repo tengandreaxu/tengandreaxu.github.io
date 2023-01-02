@@ -72,7 +72,7 @@
 
 .site-nav a {
     display: block;
-    color: #ffffff;
+    color: #828282;
 }
 
 /* Sub Menu */
@@ -84,7 +84,7 @@
     letter-spacing: 0;
     line-height: 1.2em;
     padding: 4px 10px;
-    color: #522d80;
+    color: #828282;
 
 }
 
@@ -140,6 +140,7 @@
 
 .site-nav li:hover>.sub-menu {
     display: block;
+    color: #828282;
 }
 
 
@@ -160,7 +161,7 @@
     }
 
     .page-link {
-        color: #ffffff;
+        color: #828282;
         background: $clemson-orange;
         line-height: $base-line-height;
 

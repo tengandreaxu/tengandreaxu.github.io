@@ -4,8 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+Coming Soon.
 
+<!---
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -19,3 +20,4 @@ Tell us about your blog. Hopefully it's cool.
   </li>
 {% endfor %}
 </ul>
+--->
