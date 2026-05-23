@@ -31,7 +31,7 @@ Journal of Investment Management (JOIM).
 arXiv preprint: 2301.11414.
 
 <p></p>
-- Tail Recovery (2024) [[paper]](https://pm-research.com/content/6/3/115) <br>
+- Tail Recovery (2024) [[paper]](https://www.pm-research.com/content/iijjfds/6/3/115) <br>
 <small>  **Teng Andrea Xu**. <br>
 Journal of Financial Data Science, 6(3), 115-146.
 
