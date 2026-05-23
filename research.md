@@ -6,13 +6,33 @@ permalink: /research/
 
 # Publications
 <p></p>
+- Scaling Point-in-Time Language Models (2026) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6681860)[[code]](https://github.com/DjoFE2021/Point-In-Time-LLM) <br>
+<small>  [Bryan Kelly](https://www.bryankellyacademic.org/), [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), [Johannes Schwab](https://www.nber.org/people/johannes_schwab?page=1&perPage=50), **Teng Andrea Xu**. <br>
+Swiss Finance Institute Research Paper No. 26-37.
+
+<p></p>
+- Training NTK to Generalize with KARE (2025) [[paper]](https://arxiv.org/abs/2505.11347) <br>
+<small>  [Johannes Schwab](https://www.nber.org/people/johannes_schwab?page=1&perPage=50), [Bryan Kelly](https://www.bryankellyacademic.org/), [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), **Teng Andrea Xu**. <br>
+arXiv preprint arXiv:2505.11347.
+
+<p></p>
+- Artificial Intelligence Asset Pricing Models (2025) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5089371) <br>
+<small>  [Bryan Kelly](https://www.bryankellyacademic.org/), Boris Kuznetsov, [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), **Teng Andrea Xu**. <br>
+NBER Working Paper No. 33351.
+
+<p></p>
+- Deep Learning from Implied Volatility Surfaces (2023) [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4531181) <br>
+<small>  [Bryan Kelly](https://www.bryankellyacademic.org/), Boris Kuznetsov, [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), **Teng Andrea Xu**. <br>
+Swiss Finance Institute Research Paper No. 23-60.
+
+<p></p>
 - A Simple Algorithm For Scaling Up Kernel Methods (2023) [[paper]](https://arxiv.org/pdf/2301.11414.pdf)[[code]](https://github.com/tengandreaxu/fabr) <br>
 <small>  **Teng Andrea Xu**, [Bryan Kelly](https://www.bryankellyacademic.org/), [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/). <br>
 arXiv preprint arXiv:2301.11414.
 
 <p></p>
 - Benign Autoencoders (2022) [[paper]](https://arxiv.org/pdf/2210.00637.pdf) <br>
-<small>  [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), [Andreas Schrimpf](https://www.bis.org/author/andreas_schrimpf.htm), **Teng Andrea Xu**, [Giuseppe Matera](https://people.epfl.ch/giuseppe.matera/?lang=en), [Antoine Didisheim](https://www.antoinedidisheim.com/). <br>
+<small>  [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), **Teng Andrea Xu**, Antoine Didisheim. <br>
 arXiv preprint arXiv:2210.00637.
 
 <p></p>
