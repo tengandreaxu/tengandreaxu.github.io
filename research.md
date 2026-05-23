@@ -31,6 +31,11 @@ Journal of Investment Management (JOIM).
 arXiv preprint: 2301.11414.
 
 <p></p>
+- Tail Recovery (2024) [[paper]](https://pm-research.com/content/6/3/115) <br>
+<small>  **Teng Andrea Xu**. <br>
+Journal of Financial Data Science, 6(3), 115-146.
+
+<p></p>
 - Benign Autoencoders (2022) [[paper]](https://arxiv.org/pdf/2210.00637.pdf) <br>
 <small>  [Semyon Malamud](https://www.epfl.ch/labs/sfi-sm/), **Teng Andrea Xu**, Antoine Didisheim. <br>
 arXiv preprint: 2210.00637.
