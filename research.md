@@ -41,14 +41,14 @@ arXiv preprint: 2210.00637.
 Available at SSRN 4309744.
 
 <p></p>
-- DeFi vs TradFi: Valuation Using Multiples and Discounted Cash Flow (2022) [[paper]](https://arxiv.org/pdf/2210.16846.pdf) <br>
+- DeFi vs TradFi: Valuation Using Multiples and Discounted Cash Flow (2025) [[paper]](https://arxiv.org/pdf/2210.16846.pdf) <br>
 <small>  **Teng Andrea Xu**, [Jiahua Xu](https://jiahua-xu.com/), [Kristof Lommers](http://www.kristoflommers.com/about/). <br>
-arXiv preprint: 2210.16846.
+Digital Assets.
 
 <p></p>
 - A Short Survey on Business Models of Decentralized Finance (DEFI) Protocols (2022) [[paper]](https://arxiv.org/pdf/2202.07742.pdf) <br>
 <small>  **Teng Andrea Xu**, [Jiahua Xu](https://jiahua-xu.com/). <br>
-The 2nd Workshop on Decentralized Finance (DeFi).
+International Conference on Financial Cryptography and Data Security, 197-206.
 
 <p></p>
 - Poster: Performance Evaluation of an Open-Source Audio-Video Bridging/Time-Sensitive Networking Testbed for Automotive Ethernet (2018) [[paper]](https://ieeexplore.ieee.org/abstract/document/8628414) <br>
